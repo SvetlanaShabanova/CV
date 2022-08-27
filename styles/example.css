@@ -1,0 +1,66 @@
+@media (max-width: 1024px) {
+    #nameH1 {
+        font-size: 20pt;
+    }
+
+    #surnameH1 {
+        font-size: 25pt;
+    }
+
+    h3 {
+        font-size: 10pt;
+    }
+    .leftH2 {
+        font-size: 15pt;
+    }
+    .rightH2 {
+        font-size: 15pt;
+    }
+    footer {
+        height: 70pt;
+    }
+}
+
+@media (max-width: 768px) {
+    a{
+        font-size: 8pt;
+    }
+}
+@media (max-width: 600px) {
+    .wrapper {
+        flex-direction: column;
+    }
+    .leftContent {
+        width: 100%;
+    }
+    .rightContent {
+        width: 100%;
+    }
+    a{
+        font-size: 12pt;
+    }
+    #nameH1 {
+        font-size: 25pt;
+    }
+
+    #surnameH1 {
+        font-size: 30pt;
+    }
+    h3 {
+        font-size: 15pt;
+    }
+}
+
+@media (max-width: 320px) {
+    #nameH1 {
+        font-size: 20pt;
+    }
+
+    #surnameH1 {
+        font-size: 25pt;
+    }
+
+    h3 {
+        font-size: 10pt;
+    }
+}
